@@ -1,0 +1,36 @@
+[
+  {
+    "title": "project_1",
+    "details": "the first project",
+    "target_amount": 60000.0,
+    "start_date": "2023-12-16",
+    "end_date": "2024-12-16",
+    "creator": {
+      "first_name": "mahmoud",
+      "last_name": "fayd",
+      "email": "mahmoud.fayd.a25@gmail.com",
+      "password": "1234",
+      "mobile_phone": "+201125545823"
+    },
+    "current_amount": 500.0,
+    "backers": ["mahmoud.fayd.a25@gmail.com"],
+    "closed": false
+  },
+  {
+    "title": "project_2",
+    "details": "the second project",
+    "target_amount": 70000.0,
+    "start_date": "2023-12-17",
+    "end_date": "2024-12-17",
+    "creator": {
+      "first_name": "nada",
+      "last_name": "hossam",
+      "email": "nada@gmail.com",
+      "password": "1234",
+      "mobile_phone": "+201100000000"
+    },
+    "current_amount": 500.0,
+    "backers": ["haneen@gmail.com"],
+    "closed": false
+  }
+]

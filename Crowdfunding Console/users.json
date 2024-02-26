@@ -1,0 +1,30 @@
+[
+  {
+    "first_name": "mahmoud",
+    "last_name": "fayd",
+    "email": "mahmoud.fayd.a25@gmail.com",
+    "password": "1234",
+    "mobile_phone": "+201125545823"
+  },
+  {
+    "first_name": "haneen",
+    "last_name": "mostafa",
+    "email": "haneen@gmail.com",
+    "password": "1234",
+    "mobile_phone": "+201100000000"
+  },
+  {
+    "first_name": "habiba",
+    "last_name": "mokhtar",
+    "email": "habiba@gmail.com",
+    "password": "1234",
+    "mobile_phone": "+201100000000"
+  },
+  {
+    "first_name": "nada",
+    "last_name": "hossam",
+    "email": "nada@gmail.com",
+    "password": "1234",
+    "mobile_phone": "+201100000000"
+  }
+]
